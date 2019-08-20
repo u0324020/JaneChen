@@ -1,3 +1,3 @@
-# elvisyjlin.github.io
+# JaneChen.github.io page
 
-My personal website: https://elvisyjlin.github.io
+My personal website: https://u0324020.github.io/JaneChen
